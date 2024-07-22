@@ -1,7 +1,5 @@
 [Templateless](https://templateless.com/) is a service that allows you to quickly craft & send beautiful emails **without ever leaving your code editor** ✨
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Templateless)](https://twitter.com/templateless)
-
 - 🚀 Ship faster by writing emails as code
 - 🥹 No drag-and-drop builders, no templates, no messing w/ HTML
 - 📬 Use your favorite email provider
